@@ -1,4 +1,4 @@
-package com.aniruddha.app.firstwebmicroservice;
+package com.aniruddha.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

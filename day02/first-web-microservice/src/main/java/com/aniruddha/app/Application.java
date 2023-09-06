@@ -1,13 +1,13 @@
-package com.aniruddha.app.firstwebmicroservice;
+package com.aniruddha.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FirstWebMicroserviceApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstWebMicroserviceApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
